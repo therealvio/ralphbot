@@ -1,4 +1,4 @@
-name: Ralphbot Master Actions
+name: Ralphbot Deploy Actions
 on: 
   workflow_run:
     workflows:
